@@ -11,7 +11,7 @@ analytical, modelling and coding.
 conda create --name newyorker python=3.10.12
   
 ## Install Project
-- conda activate newyorker2
+- conda activate newyorker
 - pip install torch --index-url https://download.pytorch.org/whl/cpu
 - pip install -e .
 
