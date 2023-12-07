@@ -1,8 +1,6 @@
 # Price Analysis
 analytical, modelling and coding.
 
-**NewYorker Excercises.**
-
 
 ## Setup Environment
 mkdir -p ~/miniconda3
@@ -17,5 +15,5 @@ conda activate newyorker2
 pip install torch --index-url https://download.pytorch.org/whl/cpu
 pip install -e .
 
-### : RUN jupyter Lab
+### RUN jupyter Lab
 Run `jupyter lab` to run application.# newyorker_exercise
