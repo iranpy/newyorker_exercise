@@ -9,7 +9,11 @@ requires = [
     'pymc',
     'pytorch-forecasting',
     'seaborn',
-    'jupyterlab'
+    'jupyterlab',
+    'black',
+    'flake8',
+    'isort',
+    'pre-commit'
     ]
 
 tests_require = ['pytest']
