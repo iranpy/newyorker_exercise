@@ -13,7 +13,7 @@ analytical, modelling and coding.
 - conda create --name newyorker python=3.10.12
 - conda activate newyorker
 - pip install torch --index-url https://download.pytorch.org/whl/cpu
-- pip install -e . \
+- pip install -e .
 - Run `jupyter lab` to run application.# newyorker_exercise
 
 ### Install with Docker
