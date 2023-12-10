@@ -14,10 +14,9 @@ analytical, modelling and coding.
 - conda activate newyorker
 - pip install torch --index-url https://download.pytorch.org/whl/cpu
 - pip install -e .
-- Run `jupyter lab` to run application.# newyorker_exercise
+- Run `jupyter lab` to run application.
 
 ### Install with Docker
 
-
-- docker build  --rm -t newyorker . \
-- docker run -it -p 8888:8888  newyorker:latest --allow-root
+- docker build  --rm -t newyorker .
+- docker run -it -p 8888:8888  newyorker:latest
